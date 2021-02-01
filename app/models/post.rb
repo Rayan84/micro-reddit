@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Post < ApplicationRecord
   validates :body, presence: true
   validates :body, length: { minimum: 4 }
