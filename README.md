@@ -5,7 +5,7 @@
 ## About the Project
 
 This project is based on the [Odin Project: Building With Active Record](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails).
-The challenge micro-reddit was executed to fulfill Microverse Technical Curriculum - Ruby on Rails section, micro-reddit challenge
+The challenge micro-reddit was executed to fulfill Microverse Technical Curriculum - Ruby on Rails section.
 
 ### Built With
 
