@@ -26,7 +26,10 @@ To use this application
 3. On your local machine open git application
 4. Type 'git clone' and paste the link you copied in step 2. 
 5. Go to application root folder and open bash terminal 
-6. Type 'rails c' to start rails console and interact with the application
+6. Type 'bundle install' to get the necesary gems.
+7. Type 'yarn'
+8. Type 'rails db:migrate'
+9. Type 'rails c' to start rails console and interact with the application
 
 ## Author
 
