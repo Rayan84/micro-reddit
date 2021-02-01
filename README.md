@@ -52,6 +52,6 @@ This project is [MIT](./LICENSE) licensed.
 
 ## Acknowledgements
 
-- [Odin Project Blog App](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails)
-- [Jumpstart Lab’s Blogger Tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html)
+- [Odin Project: Building With Active Record](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
+- [Microverse micro-reddit](https://microverse.pathwright.com/library/fast-track-curriculum/69047/path/step/49722535/)
 
